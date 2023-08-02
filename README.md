@@ -18,7 +18,7 @@
 </a>
 <br/> 
 
-[<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner" width="853" height="414"/>](https://github.com/gariepyz)
+[<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner" width="400" height="194"/>](https://github.com/gariepyz)
 
 
 <!-- https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755 -->
