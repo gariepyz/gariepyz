@@ -22,9 +22,9 @@
 <!-- <img src="https://raw.githubusercontent.com/gariepyz/gariepyz.github.io/main/images/mural.jpeg" width="20%" alt="Scaled Down Image"> -->
 <!-- </a> -->
 
-
-https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755
-
+<video width='853' height='414' loop autoplay>
+    https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755
+</video>
 
 <video width='853' height='414' loop autoplay>
     <source src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4" type="video/mp4">
