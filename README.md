@@ -18,7 +18,8 @@
 </a>
 <br/> 
 
-![banner](https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4)](https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4)
+[<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner"/>](https://github.com/gariepyz)
+
 
 <!-- https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755 -->
 
