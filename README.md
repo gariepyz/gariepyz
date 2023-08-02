@@ -18,16 +18,8 @@
 </a>
 <br/> 
 
+
 [<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner" width="550" height="267"/>](https://github.com/gariepyz)
-
-
-<!-- https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755 -->
-
-<!-- <video width='853' height='414' loop autoplay> -->
-<!--     <source src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4" type="video/mp4"> -->
-<!--     Your browser does not support the video tag. -->
-<!-- </video> -->
-
 </p>
 
 * MASc. Material Science & Engineering with **focus in Data Science and ML** from [The University of Toronto](https://gradstudies.engineering.utoronto.ca/). 
