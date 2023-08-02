@@ -23,7 +23,7 @@
 <!-- </a> -->
 
 <video width='853' height='414' loop autoplay>
-    <source src="media/banner.mp4" type="video/mp4">
+    <source src="[media/banner.mp4](https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4)" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
