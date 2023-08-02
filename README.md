@@ -18,7 +18,7 @@
 </a>
 <br/> 
 
-![banner](https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755)](https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755)
+![banner](https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4)](https://raw.githubusercontent.com/gariepyz/gariepyz/main/media/banner.mp4)
 
 <!-- https://github.com/gariepyz/gariepyz/assets/85798903/3d33b2c4-60bf-4246-8e6d-0a4a83997755 -->
 
