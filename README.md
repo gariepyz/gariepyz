@@ -26,6 +26,8 @@
 
 * Multiple publications in **material design through ML and DFT** during my tenure with @ [the CME Lab](http://www.ecf.utoronto.ca/~singhc17/index.html).
 
+* Check out my NBA sports analytics article ([An Exploration of NBA Team Building Strategy Using Economic Theory & Statistics](https://medium.com/@zgariepy123/an-exploration-of-nba-team-building-strategy-using-economic-theory-statistics-1d3f1827ed9a))
+
 * Open to collaborating on projects and innovative ideas in the field of sports, geography, health, material science or any other interesting areas. 
 
 * Open to work/oppurtunities
