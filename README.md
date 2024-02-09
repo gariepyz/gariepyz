@@ -21,6 +21,7 @@
 
 [<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner" width="550" height="267"/>](https://github.com/gariepyz)
 </p>
+* BI Data Analyst with dashboarding, analytics, reporting, visualization and modeling experience. 
 
 * MASc. Material Science & Engineering with **focus in Data Science and ML** from [The University of Toronto](https://gradstudies.engineering.utoronto.ca/). 
 
@@ -28,7 +29,7 @@
 
 * Check out my NBA sports analytics article ([An Exploration of NBA Team Building Strategy Using Economic Theory & Statistics](https://medium.com/@zgariepy123/an-exploration-of-nba-team-building-strategy-using-economic-theory-statistics-1d3f1827ed9a))
 
-* Open to collaborating on projects and innovative ideas in the field of sports, geography, health, material science or any other interesting areas. 
+* Open to collaborating on projects and innovative ideas in almost any field. 
 
 * Open to work/oppurtunities
 
