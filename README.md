@@ -19,7 +19,7 @@
 <br/> 
 
 
-[<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner1.gif" alt="banner" title="banner" width="550" height="267"/>](https://github.com/gariepyz)
+[<img src="https://raw.githubusercontent.com/gariepyz/gariepyz/main/banner2.gif" alt="banner" title="banner" width="550" height="267"/>](https://github.com/gariepyz)
 </p>
 
 * BI Data Analyst with dashboarding, analytics, reporting, visualization and modeling experience. 
